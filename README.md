@@ -24,8 +24,7 @@ Using dbt, you should create cleaned, transformed, and analytics-ready tables th
 
 
 ## Evaluation Criteria
-Code structure: Follows dbt best practices.
-Data quality: Properly handled NULL values, data types, and integrity.
-Reusability: Modular and well-structured SQL models.
-Performance: Optimized queries.
-Documentation: Clear and informative schema.yml.
+- Code structure: Follows dbt best practices.
+- Data quality: Properly handled NULL values, data types, and integrity.
+- Reusability: Modular and well-structured SQL models.
+- Documentation: Clear and informative schema.yml.
